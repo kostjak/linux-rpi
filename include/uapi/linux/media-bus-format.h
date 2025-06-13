@@ -185,6 +185,9 @@
 #define MEDIA_BUS_FMT_META_20			0x8006
 #define MEDIA_BUS_FMT_META_24			0x8007
 
+/* Specific metadata formats. Next is 0x9002. */
+#define MEDIA_BUS_FMT_CCS_EMBEDDED		0x9001
+
 /* Sensor ancillary metadata formats - next is 0x7002 */
 #define MEDIA_BUS_FMT_SENSOR_DATA		0x7002
 
